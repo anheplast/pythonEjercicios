@@ -1,5 +1,5 @@
 #Los cajeros automáticos permiten códigos PIN de 4 ó 6 dígitos 
-#y los códigos PIN no puede n contener más que exactamente 4 dígitos o exactamente 6 dígitos.
+#y los códigos PIN no pueden contener más que exactamente 4 dígitos o exactamente 6 dígitos.
 
 #Si a la función se le pasa una cadena PIN válida, devuelve true, en caso contrario devuelve false.
 
